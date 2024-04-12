@@ -77,9 +77,9 @@ snd-soc-mtk-common.ko
 snd-soc-mt6789-afe.ko
 mtk-scp-ultra.ko
 snd-soc-mtk-scp-ultra.ko
-snd-soc-fs1599.ko
 mt6789-mt6366.ko
 snd-soc-mt6366.ko
+aw87xxx_main.ko
 mddp.ko
 mtk_qos.ko
 atf_logger.ko
@@ -116,7 +116,7 @@ main3af.ko
 subaf.ko
 sub2af.ko
 flashlight.ko
-flashlights-aw36515.ko
+ocp81375.ko
 trace_mmstat.ko
 mtk-pwm.ko
 mtk_irtx_pwm.ko
@@ -160,9 +160,9 @@ task_turbo.ko
 pmsr.ko
 spmtwam.ko
 mtk_disp_sec.ko
-transsion_touch.ko
-aw862xx_haptic.ko
-fs3xxx_haptic.ko
+tran_touch.ko
+ilitek_common.ko
+focaltech_noflash_common.ko
 pn553.ko
 transsion_resmonitor.ko
 transsion_tranlog.ko
@@ -172,3 +172,5 @@ tran_fre.ko
 lzo.ko
 lzo-rle.ko
 memfusion.ko
+hiber.ko
+tnek.ko
